@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title_Screen.unity
+    guid: 5d437d99260a346ddb77b580fb00b8d2
+  - enabled: 1
+    path: Assets/Scenes/About Section.unity
+    guid: 5db7d995a53f94a3dbc031352d9ab6bc
+  - enabled: 1
+    path: Assets/Scenes/Pong Battle.unity
+    guid: 54748ead77df54f3ab525909712ef687
+  - enabled: 1
+    path: Assets/Scenes/Demo_Field.unity
+    guid: 00c634e0f9c94f449bd86286ead75b47
+  - enabled: 1
+    path: Assets/Scenes/Demo_Field 2.unity
+    guid: 38eb51613065e294bb01ca4e35044ac8
